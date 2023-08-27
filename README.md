@@ -53,7 +53,7 @@ If you discover any security related issues, please email author email instead o
 
 ## Credits
 
-- Sarfaraz Muhammad Sajib
+-  With 💜 Sarfaraz Muhammad Sajib
 
 ## License
 
